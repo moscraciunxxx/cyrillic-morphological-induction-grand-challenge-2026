@@ -1,0 +1,16 @@
+/data/
+/submission.csv
+/*_predictions.csv
+*.pt
+*.pth
+/char_vocab.json
+/vendor/
+/vendor_cuda/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
